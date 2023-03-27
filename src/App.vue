@@ -48,6 +48,7 @@ export default {
       weather: {},
     };
   },
+
   methods: {
     fetchWeather(e) {
       if (e.key == "Enter") {
@@ -117,6 +118,7 @@ main {
 .search-box {
   width: 100%;
   margin-bottom: 30px;
+  margin-top: 100px;
 }
 .search-box .search-bar {
   display: block;
