@@ -12,5 +12,5 @@ Users should be able to:
 - The background will change depending on the weather
 
 
-🌎 Live site URL: https://weather-app-anibolokadze.vercel.app/
+🌎 Live site URL: https://weather-app-anibolokadze.vercel.app/ <br>
 👩‍💻 LinkedIn: https://www.linkedin.com/in/ani-bolokadze-34b872252/
